@@ -1,1 +1,10 @@
-
+{
+  "albums": {
+    "normal": [
+      {
+        "path": "normal/normal_1761377086071_may-khoan-tamrok.jpg",
+        "createdAt": "2025-10-25T07:24:47.948Z"
+      }
+    ]
+  }
+}
