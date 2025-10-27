@@ -174,6 +174,423 @@
         "createdAt": "2025-10-25T15:59:22.255Z"
       }
     ],
-    "anh_tham_chieu": []
+    "anh_tham_chieu": [
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586687331_509620250708-1106-may-bom-kim-loai-remix-01jzm3abxtejbb61j1kjeyd7w5-min-png.png",
+        "createdAt": "2025-10-27T17:38:09.732Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586689738_bcsp-4.jpg",
+        "createdAt": "2025-10-27T17:38:10.906Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586690908_cong-nhan-so-1.png",
+        "createdAt": "2025-10-27T17:38:13.753Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586693756_cot-chong-thuy-luc-dw10-5.jpg",
+        "createdAt": "2025-10-27T17:38:15.351Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586695355_cot-chong-thuy-luc-dwb-30-35-3.jpg",
+        "createdAt": "2025-10-27T17:38:17.025Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586697030_cwh425tvpe-01.jpg",
+        "createdAt": "2025-10-27T17:38:18.909Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586698915_image_202510262305.jpeg",
+        "createdAt": "2025-10-27T17:38:21.288Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586701295_img_20251022_093709_921.jpg",
+        "createdAt": "2025-10-27T17:38:27.299Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586707307_img_20251022_093741_931.jpg",
+        "createdAt": "2025-10-27T17:38:33.127Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586713136_img_20251022_094312_094.jpg",
+        "createdAt": "2025-10-27T17:38:39.094Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586719105_img_20251022_094353_621.jpg",
+        "createdAt": "2025-10-27T17:38:49.629Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586729640_img_20251022_094516_418.jpg",
+        "createdAt": "2025-10-27T17:38:56.790Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586736803_img_20251022_094533_727.jpg",
+        "createdAt": "2025-10-27T17:39:08.201Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586748215_img_20251022_094602_987.jpg",
+        "createdAt": "2025-10-27T17:39:19.430Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586759444_img_20251022_094615_332.jpg",
+        "createdAt": "2025-10-27T17:39:24.785Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586764800_img_20251022_094626_286.jpg",
+        "createdAt": "2025-10-27T17:39:29.973Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586770001_img_20251022_094711_714.jpg",
+        "createdAt": "2025-10-27T17:39:36.530Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586776547_img_20251022_094740_412.jpg",
+        "createdAt": "2025-10-27T17:39:44.120Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586784138_img_20251022_094758_214.jpg",
+        "createdAt": "2025-10-27T17:39:54.187Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586794206_img_20251022_094826_947.jpg",
+        "createdAt": "2025-10-27T17:40:01.330Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586801350_img_20251022_094837_888.jpg",
+        "createdAt": "2025-10-27T17:40:09.339Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586809367_img_20251022_095553_926-1.jpg",
+        "createdAt": "2025-10-27T17:40:20.297Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586820319_img_20251022_095553_926.jpg",
+        "createdAt": "2025-10-27T17:40:32.128Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586832151_img_20251022_095621_451.jpg",
+        "createdAt": "2025-10-27T17:40:42.309Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586842333_img_20251022_095807_964.jpg",
+        "createdAt": "2025-10-27T17:40:51.014Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586851039_img_20251022_095835_596.jpg",
+        "createdAt": "2025-10-27T17:40:57.008Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586857034_img_20251022_095852_827.jpg",
+        "createdAt": "2025-10-27T17:41:02.261Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586862288_img_20251022_095957_758.jpg",
+        "createdAt": "2025-10-27T17:41:09.519Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586869547_img_20251022_100023_716.jpg",
+        "createdAt": "2025-10-27T17:41:16.177Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586876206_img_20251022_100229_970.jpg",
+        "createdAt": "2025-10-27T17:41:22.834Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586882864_img_20251022_100241_944.jpg",
+        "createdAt": "2025-10-27T17:41:29.919Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586889950_img_20251022_100255_989.jpg",
+        "createdAt": "2025-10-27T17:41:39.018Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586899050_img_20251022_101121_949.jpg",
+        "createdAt": "2025-10-27T17:41:50.514Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586910547_img_20251022_101857_005.jpg",
+        "createdAt": "2025-10-27T17:41:56.644Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586916678_img_20251022_101916_767.jpg",
+        "createdAt": "2025-10-27T17:42:03.122Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586923157_img_20251022_102020_610.jpg",
+        "createdAt": "2025-10-27T17:42:09.068Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586929104_img_20251022_102029_430.jpg",
+        "createdAt": "2025-10-27T17:42:16.748Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586936785_img_20251022_102044_358.jpg",
+        "createdAt": "2025-10-27T17:42:25.548Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586945586_img_20251022_102100_366.jpg",
+        "createdAt": "2025-10-27T17:42:35.464Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586955503_img_20251022_102108_196.jpg",
+        "createdAt": "2025-10-27T17:42:41.972Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586962012_img_20251022_103254_355.jpg",
+        "createdAt": "2025-10-27T17:42:49.343Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586969384_img_20251022_103302_592.jpg",
+        "createdAt": "2025-10-27T17:42:59.544Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586979586_img_20251022_103919_839.jpg",
+        "createdAt": "2025-10-27T17:43:12.063Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586992106_img_20251022_103951_322.jpg",
+        "createdAt": "2025-10-27T17:43:19.407Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761586999451_img_20251022_104220_539.jpg",
+        "createdAt": "2025-10-27T17:43:29.869Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587009914_img_20251022_104235_912.jpg",
+        "createdAt": "2025-10-27T17:43:38.556Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587018602_img_20251022_104253_184.jpg",
+        "createdAt": "2025-10-27T17:43:44.980Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587025027_img_20251022_104526_203.jpg",
+        "createdAt": "2025-10-27T17:43:53.035Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587033083_img_20251022_104540_833.jpg",
+        "createdAt": "2025-10-27T17:43:59.700Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587039749_img_20251022_105151_641.jpg",
+        "createdAt": "2025-10-27T17:44:09.047Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587049097_img_20251022_105322_425.jpg",
+        "createdAt": "2025-10-27T17:44:14.926Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587054977_img_20251022_105332_745.jpg",
+        "createdAt": "2025-10-27T17:44:26.744Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587066796_img_20251022_105353_696.jpg",
+        "createdAt": "2025-10-27T17:44:31.932Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587071986_img_20251022_105355_769.jpg",
+        "createdAt": "2025-10-27T17:44:36.750Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587076804_img_20251022_105417_995.jpg",
+        "createdAt": "2025-10-27T17:44:43.685Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587083740_img_20251022_105423_134.jpg",
+        "createdAt": "2025-10-27T17:44:53.269Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587093325_img_20251022_113813_752.jpg",
+        "createdAt": "2025-10-27T17:45:02.009Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587102066_img_20251022_113917_407.jpg",
+        "createdAt": "2025-10-27T17:45:08.885Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587108943_img_20251022_113920_785.jpg",
+        "createdAt": "2025-10-27T17:45:16.292Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587116351_img_20251022_113934_798.jpg",
+        "createdAt": "2025-10-27T17:45:22.757Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587122817_ir-manual-hoist-01-1.jpg",
+        "createdAt": "2025-10-27T17:45:25.545Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587125606_ir-manual-hoist-01.jpg",
+        "createdAt": "2025-10-27T17:45:28.663Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587128726_kdp-30.jpg",
+        "createdAt": "2025-10-27T17:45:30.265Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587130328_khoi_dong_tu.jpg",
+        "createdAt": "2025-10-27T17:45:31.686Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587131750_mang-co-phong-no.jpg",
+        "createdAt": "2025-10-27T17:45:33.611Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587133676_may_do_khi-ch4.jpg",
+        "createdAt": "2025-10-27T17:45:37.219Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587137286_may_do_khi-co.jpg",
+        "createdAt": "2025-10-27T17:45:40.213Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587140280_may_xuc_da-zcy60.jpg",
+        "createdAt": "2025-10-27T17:45:42.152Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587142220_may-dao-combai-than-da-ebh260a.jpg",
+        "createdAt": "2025-10-27T17:45:44.187Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587144256_monoray.jpg",
+        "createdAt": "2025-10-27T17:45:46.453Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587146523_mqbt-75-01-1.jpg",
+        "createdAt": "2025-10-27T17:45:48.345Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587148416_mqbt-75-01.jpg",
+        "createdAt": "2025-10-27T17:45:50.125Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587150197_mqt-120-1.jpg",
+        "createdAt": "2025-10-27T17:45:51.875Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587151948_mqt-120.jpg",
+        "createdAt": "2025-10-27T17:45:53.637Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587153711_ong-thong-gio-chong-chay-no-2.jpg",
+        "createdAt": "2025-10-27T17:45:56.241Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587156317_palang2.jpg",
+        "createdAt": "2025-10-27T17:45:57.944Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587158020_pma-2008_1_1.jpg",
+        "createdAt": "2025-10-27T17:46:00.030Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587160107_quat_cuc_bo.jpg",
+        "createdAt": "2025-10-27T17:46:02.131Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587162209_quat-thong-gio-mo-ham-lo-ybt-1-2.jpg",
+        "createdAt": "2025-10-27T17:46:04.154Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587164233_quat-thong-gio-phong-no-ham-lo-fbdy11.jpg",
+        "createdAt": "2025-10-27T17:46:06.710Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587166790_quat-thong-gio-phong-no-ham-lo-fbdy12.jpg",
+        "createdAt": "2025-10-27T17:46:08.939Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587169020_quat-thong-gio-phong-no-mo-ham-lo-fdb.jpg",
+        "createdAt": "2025-10-27T17:46:10.733Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587170815_rd245.jpg",
+        "createdAt": "2025-10-27T17:46:12.144Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587172227_result_x3if-tpu9ro3muaiffkp4_sudyapp.jpg",
+        "createdAt": "2025-10-27T17:46:15.311Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587175395_slb300.jpg",
+        "createdAt": "2025-10-27T17:46:17.892Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587177979_ung-lo.jpg",
+        "createdAt": "2025-10-27T17:46:19.416Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587179502_ybj-1200-01.jpg",
+        "createdAt": "2025-10-27T17:46:21.249Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587181337_zqs-35.jpg",
+        "createdAt": "2025-10-27T17:46:22.871Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587182959_trashed-1763693016-img_20251022_094254_548.jpg",
+        "createdAt": "2025-10-27T17:46:26.684Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587186773_trashed-1763702144-img_20251022_093733_058.jpg",
+        "createdAt": "2025-10-27T17:46:31.608Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587191698_trashed-1763703579-img_20251022_093828_624.jpg",
+        "createdAt": "2025-10-27T17:46:37.406Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587197497_trashed-1763703582-img_20251022_093943_415.jpg",
+        "createdAt": "2025-10-27T17:46:47.915Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587208007_322d-01.jpg",
+        "createdAt": "2025-10-27T17:46:49.821Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587209914_631l-tvpe1-01.jpg",
+        "createdAt": "2025-10-27T17:46:51.897Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587211991_3955b2tiex-01-01.jpg",
+        "createdAt": "2025-10-27T17:46:53.915Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587214010_495474743_576997748761099_5765402197107091470_n.jpg",
+        "createdAt": "2025-10-27T17:46:55.663Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587215759_495542188_580582431735964_2116108866908800240_n.jpg",
+        "createdAt": "2025-10-27T17:46:58.661Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587218758_496151631_577745262019681_7708850849414257845_n.jpg",
+        "createdAt": "2025-10-27T17:47:00.994Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587221093_520306075_635177492943124_3204185246062888800_n.jpg",
+        "createdAt": "2025-10-27T17:47:02.865Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587222964_522643893_635177602943113_4445900403638476294_n.jpg",
+        "createdAt": "2025-10-27T17:47:04.715Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587224815_546929555_677080688752804_703553512025936823_n.jpg",
+        "createdAt": "2025-10-27T17:47:07.301Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587227402_561806046_706015299192676_7207902271891872782_n.jpg",
+        "createdAt": "2025-10-27T17:47:09.357Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587229459_202011200806_monoray.png",
+        "createdAt": "2025-10-27T17:47:11.016Z"
+      },
+      {
+        "path": "anh_tham_chieu/anh_tham_chieu_1761587231119_202101192345_mang-cao-skat-80.jfif",
+        "createdAt": "2025-10-27T17:47:13.100Z"
+      }
+    ]
   }
 }
